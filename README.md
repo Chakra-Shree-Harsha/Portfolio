@@ -38,7 +38,7 @@ Currently pursuing my **Master of Science in Scientific Instrumentation** at **E
 - **Tools Used:** Microfabrication, Semiconductor Processing.  
 - 📂 [View Project Folder](etching-lithography/)  
 
-### 🔹 [5. Mirror Adjustment Device using AutoCAD](mirror-adjustment/README.md)  
+### 🔹 [5. Mirror Adjustment Device using AutoCAD](mirror-adjustment-device/README.md)  
 - Designed a **precision mirror adjustment system** using **AutoCAD**.  
 - **Tools Used:** CAD Design, Optical Instrumentation.  
 - 📂 [View Project Folder](mirror-adjustment-device/)
