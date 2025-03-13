@@ -62,10 +62,24 @@ Currently pursuing my **Master of Science in Scientific Instrumentation** at **E
 
 ---
 
+## 📜 Certificates and Achievements
+
+I have gathered a range of certificates and accomplishments throughout my academic and professional journey. Below is a link to my **Certificates and Achievements** repository, where you can view and download various certificates that I have earned.
+
+### 🔹 [View My Certificates and Achievements](https://github.com/your-username/certificates-repository)
+
+This repository includes:
+- **Certificates** from online courses, workshops, and seminars.
+- **Awards** and recognition for academic performance.
+- **Professional achievements** and milestones reached in my career.
+
+Feel free to explore the repository for detailed information on each certificate and achievement.
+
+---
+
 ## 🔗 Contact  
 📧 Email: Chakrashreeharsha.v@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/chakra-shree-harsha 
 🔗 GitHub: https://github.com/Chakra-Shree-Harsha/
 
 ---
-
