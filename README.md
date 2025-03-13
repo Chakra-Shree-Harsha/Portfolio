@@ -41,7 +41,7 @@ Currently pursuing my **Master of Science in Scientific Instrumentation** at **E
 ### 🔹 [5. Mirror Adjustment Device using AutoCAD](mirror-adjustment/README.md)  
 - Designed a **precision mirror adjustment system** using **AutoCAD**.  
 - **Tools Used:** CAD Design, Optical Instrumentation.  
-- 📂 [View Project Folder](mirror-adjustment/)
+- 📂 [View Project Folder](mirror-adjustment-device/)
 
 ### 🔹 [6. Surveying Instruments: Measurement of Distances, Angles, and Heights](surveying-instruments/README.md)  
 - Measured **room floor area** and **radius of curvature** of a curved ceiling using **Tachymeter**.  
