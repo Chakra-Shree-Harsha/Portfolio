@@ -58,7 +58,7 @@ Currently pursuing my **Master of Science in Scientific Instrumentation** at **E
 - Worked with **CI/CD tools (Jenkins, Maven, Git)** for software deployment.  
 
 ### 🔹 **Engineering Associate** | Wells Fargo (2022 – 2023)  
-- Refactored **legacy code**, improved **data quality checks**, and participated in Agile sprints.  
+- Refactored **Java legacy code**, improved **data quality checks**, and participated in Agile sprints.  
 
 ---
 
