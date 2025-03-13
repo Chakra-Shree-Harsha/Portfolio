@@ -43,7 +43,7 @@ Currently pursuing my **Master of Science in Scientific Instrumentation** at **E
 - **Tools Used:** CAD Design, Optical Instrumentation.  
 - 📂 [View Project Folder](mirror-adjustment/)
 
-### 🔹 [3. Surveying Instruments: Measurement of Distances, Angles, and Heights](surveying-instruments/README.md)  
+### 🔹 [6. Surveying Instruments: Measurement of Distances, Angles, and Heights](surveying-instruments/README.md)  
 - Measured **room floor area** and **radius of curvature** of a curved ceiling using **Tachymeter**.  
 - Explored **land surveying techniques** for **construction and civil engineering** applications.  
 - **Tools Used:** Tachymeter, Theodolite, Measuring Tape.  
