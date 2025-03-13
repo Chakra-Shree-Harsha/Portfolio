@@ -63,4 +63,3 @@ Currently pursuing my **Master of Science in Scientific Instrumentation** at **E
 
 ---
 
-⭐ **Feel free to explore my projects and reach out for collaboration!** 🚀
