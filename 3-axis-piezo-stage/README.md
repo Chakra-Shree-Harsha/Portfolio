@@ -26,4 +26,4 @@ The key tasks in this study include:
 ## **📄 Project Report**
 The detailed analysis and results of the project are documented in the report:
 
-📑 **[Finite Element Analysis of 3-Axis Piezo Stage](./3-axis-piezo-stage/Finite Element Analysis of 3-axis-piezo-stage Report.pdf)**  
+📑 **[Finite Element Analysis of 3-Axis Piezo Stage](./Finite_Element_Analysis_of_3-Axis_Piezo_Stage_Report.pdf)**  
