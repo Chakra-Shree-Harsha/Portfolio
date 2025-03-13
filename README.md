@@ -6,7 +6,7 @@ Currently pursuing my **Master of Science in Scientific Instrumentation** at **E
 
 🚀 **Technical Skills:**  
 - **Software Development:** Java (Spring Boot), MATLAB, Python  
-- **Software Tools:** Jenkins, Maven, Git, ServiceNow, Jira, VSC  
+- **Software Tools:** Jenkins, Maven, Git, ServiceNow, Jira, VSC, Eclipse IDC 
 - **Hardware & Simulation:** Ansys Workbench, AutoCAD  
 - **Methodologies:** Agile, SDLC, CI/CD  
 
