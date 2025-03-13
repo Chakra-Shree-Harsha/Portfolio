@@ -1,4 +1,4 @@
-# 🌟 Chakra Shree Harsha - Portfolio  
+# Chakra Shree Harsha - Portfolio  
 
 ## 🔹 About Me  
 I am a **Systems Engineer & Electronics Enthusiast** with experience in **Java development, hardware design, and scientific instrumentation**.  
