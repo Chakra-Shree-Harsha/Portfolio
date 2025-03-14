@@ -17,36 +17,36 @@ I am a **Master's student** in **Scientific Instrumentation** at **Ernst-Abbe-Ho
 
 ## 📂 Projects  
 
-### 🔹 [1. Simulation and Testing of a 3-axis Piezo Stage](3-axis-piezo-stage/README.md)  
-- Simulated and tested a **precision motion control system** using **finite element analysis (FEA)**.  
-- **Tools Used:** Ansys Workbench, MATLAB.  
-- 📂 [View Project Folder](3-axis-piezo-stage/)  
-
-### 🔹 [2. Analysis of Lens Characteristics using a Pulfrich Refractometer](lens-analysis/README.md)  
+### 🔹 [Analysis of Lens Characteristics using a Pulfrich Refractometer](lens-analysis/README.md)  
 - Conducted **precision optical measurements** to analyze **lens characteristics**.  
 - **Tools Used:** Optical Instrumentation, Data Processing.  
-- 📂 [View Project Folder](lens-analysis/)  
+- 📂 [View Project Folder](lens-analysis/)
 
-### 🔹 [3. Thin Metallic Layer Deposition using DC Sputtering](dc-sputtering/README.md)  
-- Investigated **thin-film deposition techniques** using **DC sputtering**.  
-- **Tools Used:** Vacuum Technology, Material Science.  
-- 📂 [View Project Folder](dc-sputtering/)  
-
-### 🔹 [4. Etching using Lithography](etching-lithography/README.md)  
-- Performed **micropattern etching** using **lithography techniques**.  
-- **Tools Used:** Microfabrication, Semiconductor Processing.  
-- 📂 [View Project Folder](etching-lithography/)  
-
-### 🔹 [5. Mirror Adjustment Device using AutoCAD](mirror-adjustment-device/README.md)  
-- Designed a **precision mirror adjustment system** using **AutoCAD**.  
-- **Tools Used:** CAD Design, Optical Instrumentation.  
-- 📂 [View Project Folder](mirror-adjustment-device/)
-
-### 🔹 [6. Surveying Instruments: Measurement of Distances, Angles, and Heights](surveying-instruments/README.md)  
+### 🔹 [Surveying Instruments: Measurement of Distances, Angles, and Heights](surveying-instruments/README.md)  
 - Measured **room floor area** and **radius of curvature** of a curved ceiling using **Tachymeter**.  
 - Explored **land surveying techniques** for **construction and civil engineering** applications.  
 - **Tools Used:** Tachymeter, Theodolite, Measuring Tape.  
 - 📂 [View Project Folder](surveying-instruments/) 
+
+### 🔹 [Thin Metallic Layer Deposition using DC Sputtering](dc-sputtering/README.md)  
+- Investigated **thin-film deposition techniques** using **DC sputtering**.  
+- **Tools Used:** Vacuum Technology, Material Science.  
+- 📂 [View Project Folder](dc-sputtering/)  
+
+### 🔹 [Etching using Lithography](etching-lithography/README.md)  
+- Performed **micropattern etching** using **lithography techniques**.  
+- **Tools Used:** Microfabrication, Semiconductor Processing.  
+- 📂 [View Project Folder](etching-lithography/)
+
+### 🔹 [Simulation and Testing of a 3-axis Piezo Stage](3-axis-piezo-stage/README.md)  
+- Simulated and tested a **precision motion control system** using **finite element analysis (FEA)**.  
+- **Tools Used:** Ansys Workbench, MATLAB.  
+- 📂 [View Project Folder](3-axis-piezo-stage/)  
+
+### 🔹 [Mirror Adjustment Device using AutoCAD](mirror-adjustment-device/README.md)  
+- Designed a **precision mirror adjustment system** using **AutoCAD**.  
+- **Tools Used:** CAD Design, Optical Instrumentation.  
+- 📂 [View Project Folder](mirror-adjustment-device/)
 
 ---
 
