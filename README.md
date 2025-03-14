@@ -1,4 +1,4 @@
-# Chakra Shree Harsha - Portfolio  
+# Chakra Shree Harsha Aravilli Venkata  
 
 ## 🔹 About Me  
 I am a **Systems Engineer & Electronics Enthusiast** with experience in **Java development, hardware design, and scientific instrumentation**.  
@@ -12,7 +12,7 @@ Currently pursuing my **Master of Science in Scientific Instrumentation** at **E
 
 💼 **Work Experience:**  
 - **Infosys (Systems Engineer)** – Developed Java applications & managed SDLC.  
-- **Wells Fargo (Engineering Associate)** – Refactored legacy code, improved data quality checks.  
+- **Wells Fargo - Client (Engineering Associate)** – Refactored Java legacy code, improved data quality checks.  
 
 ---
 
@@ -53,11 +53,11 @@ Currently pursuing my **Master of Science in Scientific Instrumentation** at **E
 
 ## 🚀 Work Experience  
 
-### 🔹 **Systems Engineer** | Infosys, Hyderabad (2021 – 2023)  
+### 🔹 **Systems Engineer** | Infosys, Hyderabad (Nov 2021 – Sept 2023)  
 - Developed **Java-based backend applications** & optimized system performance.  
 - Worked with **CI/CD tools (Jenkins, Maven, Git)** for software deployment.  
 
-### 🔹 **Engineering Associate** | Wells Fargo (2022 – 2023)  
+### 🔹 **Engineering Associate** | Wells Fargo - Client (Mar 2022 – Mar 2023)  
 - Refactored **Java legacy code**, improved **data quality checks**, and participated in Agile sprints.  
 
 ---
