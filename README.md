@@ -1,8 +1,7 @@
 # Chakra Shree Harsha Aravilli Venkata  
 
 ## 🔹 About Me  
-I am a **Systems Engineer & Electronics Enthusiast** with experience in **Java development, hardware design, and scientific instrumentation**.  
-Currently pursuing my **Master of Science in Scientific Instrumentation** at **EAH Jena, Germany**.  
+I am a **Master's student** in **Scientific Instrumentation** at **Ernst-Abbe-Hochschule Jena**, with a background in **Electronics and Communication Engineering**. I have experience in **systems engineering,software development, and data analysis**. I am proficient in **Java (Spring Boot), MATLAB, AutoCAD, Agile methodologies, and RESTful API development**. I am seeking opportunities to apply my technical expertise in a **dynamic environment**  
 
 🚀 **Technical Skills:**  
 - **Software Development:** Java (Spring Boot), MATLAB, Python  
