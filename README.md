@@ -5,7 +5,7 @@ I am a **Master's student** in **Scientific Instrumentation** at **Ernst-Abbe-Ho
 
 🚀 **Technical Skills:**  
 - **Software Development:** Java (Spring Boot), MATLAB, Python  
-- **Software Tools:** Jenkins, Maven, Git, ServiceNow, Jira, VSC, Eclipse IDC 
+- **Software Tools:** Jenkins, Maven, Git, ServiceNow, Jira, VSCode, Eclipse IDC 
 - **Hardware & Simulation:** Ansys Workbench, AutoCAD  
 - **Methodologies:** Agile, SDLC, CI/CD  
 
