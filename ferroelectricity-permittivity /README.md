@@ -1,6 +1,6 @@
 # FERROELECTRICITY - PERMITTIVITY
 
-## 📋 **Project Overview**  
+## 📌 **Project Overview**  
 This project investigates the ferroelectric properties of **TGS crystals**, focusing on the temperature dependence of their capacitance. By analyzing the sample’s behavior during heating and cooling cycles, we observed the transition from **ferroelectric** to **paraelectric** material. This process was found to be a **second-order transition**, confirming that the material changes continuously without energy loss.
 
 ## 🎯 **Objectives**  
@@ -25,5 +25,5 @@ This project investigates the ferroelectric properties of **TGS crystals**, focu
 ## 📄 **Project Report Document**  
 The full report includes detailed data analysis and conclusions. It compares the theoretical and experimental Curie temperature values, with the observed Tc for **TGS crystals** at **48.6°C**, compared to the theoretical Tc of **49°C**.
 
-📄**[View Project Report](./Permittivity_Report.pdf)**  
+📑 [View Project Report](./Permittivity_Report.pdf)  
 
