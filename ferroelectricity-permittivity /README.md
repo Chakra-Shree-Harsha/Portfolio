@@ -25,5 +25,5 @@ This project investigates the ferroelectric properties of **TGS crystals**, focu
 ## 📄 **Project Report Document**  
 The full report includes detailed data analysis and conclusions. It compares the theoretical and experimental Curie temperature values, with the observed Tc for **TGS crystals** at **48.6°C**, compared to the theoretical Tc of **49°C**.
 
-📂 **[View Project Folder](#)**  
+📂 **[View Project Folder](./Permittivity_Report.pdf)**  
 
