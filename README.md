@@ -38,6 +38,12 @@ I am a **Master's student** in **Scientific Instrumentation** at **Ernst-Abbe-Ho
 - **Tools Used:** Microfabrication, Semiconductor Processing.  
 - 📂 [View Project Folder](etching-lithography/)
 
+### 🔹 [Ferroelectricity - Permittivity](ferroelectricity-permittivity/README.md)  
+- Investigated the temperature dependence of capacitance in TGS crystals, observing the transition from ferroelectric to paraelectric states.
+- Measured the Curie temperature (Tc) through heating and cooling cycles to validate second-order phase transition behavior.
+- **Tools Used:** Optical Instrumentation, Digital Multimeter, Temperature Control Equipment.
+- 📂 [View Project Folder](ferroelectricity-permittivity/)
+
 ### 🔹 [Simulation and Testing of a 3-axis Piezo Stage](3-axis-piezo-stage/README.md)  
 - Simulated and tested a **precision motion control system** using **finite element analysis (FEA)**.  
 - **Tools Used:** Ansys Workbench, MATLAB.  
