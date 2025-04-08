@@ -88,4 +88,13 @@ Feel free to explore the repository for detailed information on each certificate
 🔗 GitHub: https://github.com/Chakra-Shree-Harsha/
 
 ---
-
+<style>
+  body {
+    background-color: #f5f5f5; /* Light grey background */
+    /* Or use an image: */
+    /* background-image: url('https://your-image-url.com/bg.jpg'); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+  }
+</style>
