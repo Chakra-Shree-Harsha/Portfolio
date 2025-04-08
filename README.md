@@ -1,3 +1,5 @@
+<div style="background-image: url('https://github.com/Chakra-Shree-Harsha/Portfolio/blob/test/uwp1361917.jpeg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; padding: 50px;">
+
 # Chakra Shree Harsha Aravilli Venkata  
 
 ## 🔹 About Me  
@@ -89,6 +91,4 @@ Feel free to explore the repository for detailed information on each certificate
 
 ---
 
-![Banner](https://github.com/Chakra-Shree-Harsha/Portfolio/blob/test/uwp1361917.jpeg)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)
-![Java](https://img.shields.io/badge/Java-SpringBoot-orange?logo=java)
+</div>
