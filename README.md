@@ -88,3 +88,7 @@ Feel free to explore the repository for detailed information on each certificate
 🔗 GitHub: https://github.com/Chakra-Shree-Harsha/
 
 ---
+
+![Banner](https://github.com/Chakra-Shree-Harsha/Portfolio/blob/test/uwp1361917.jpeg)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)
+![Java](https://img.shields.io/badge/Java-SpringBoot-orange?logo=java)
